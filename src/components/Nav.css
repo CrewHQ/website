@@ -1,0 +1,7 @@
+.Nav {
+  z-index: 1;
+}
+
+.Nav--Container {
+  display: flex;
+}
